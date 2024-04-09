@@ -1,1 +1,1 @@
-# Mini-Project
+The Hang Man Game 
